@@ -1,0 +1,1 @@
+This repository contains a couple of sample projects from my Bioinformatics Algorithms class. All files were written in C++ and represent imperfect implementations of known bioinformatics algorithms for the sake of education. If you would like to touch up one or any of these files, please feel free! 
